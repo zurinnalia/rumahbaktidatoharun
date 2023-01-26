@@ -1,0 +1,164 @@
+/* CSS Document */
+
+/*MAIN BACKGROUND SECTION*/
+.page {background-color: lightslategrey;
+	width: 80%;
+	margin: auto;
+	padding: 10px;}
+
+/*HEADER SECTION*/
+.main-header {background-color: powderblue;}
+.nav-main {background-color: darkcyan;}
+   
+/*CONTENT SECTION*/
+a.button {background-color: mediumturquoise;
+	border: none;
+	color: white;
+	padding: 11px 27px;
+	text-align: center;
+	box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 3px 1px;
+	cursor: pointer;}
+
+.image:hover {-webkit-transform: rotateZ(-30deg);
+	-ms-transform: rotateZ(-30deg);
+	-transform: rotateZ(-30deg);
+	-webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);}
+
+
+.image2:hover {-webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -transform: scale(1.2);
+	-webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);}
+
+
+.nav {text-align:center;}
+	  
+
+main {background-color: lightsteelblue; width:70%;
+	border: 1px solid white;
+	float:left;
+	padding:10px;}
+   
+.center1 {margin: auto;
+	border: 3px solid red;
+	padding: 10px;}
+
+.center2 {margin: auto;
+	border: 3px solid blue;
+	padding: 10px;}
+
+.center3 {margin: auto;
+	border: 3px solid green;
+	padding: 10px;}
+
+.center4 {margin: auto;
+	border: 3px solid black;
+	padding: 7px;
+	align: center;}
+
+.post-photo-full {border-radius: 8px;}
+
+.imgrnd {border-radius: 50%;}
+
+#id-span1 {color:yellow}
+#id-span2 {color:red}
+#id-span3 {color:green}
+#id-span4 {color:black}
+#id-span5 {color:white}
+#id-span6 {color:white}
+
+.p1 {font-size: 20px;
+	position: center;
+	color:black;
+	font-family: Courier;}
+
+.a1 {font-size: 150%;
+	position: center;
+	color:#44516C;
+	font-family: Courier;}
+
+.a2 {font-size: 250%;
+	position: center;
+	color: green;
+	font-family: Courier;}
+
+h1 {font-size: 250%;
+	position: center;
+	color: black;
+	font-family: Courier;}
+
+h2 {font-size: 250%;
+	position:center;
+	color: black;}
+
+h3 {font-size: 300%;
+	position:center;
+	color:black;}
+
+h4 {font-size: 150%;
+	position:center;
+	color:black;}
+
+  
+.div2 {background-color: #8FBC8F;
+	min-height: 1000px;
+	width:600px;
+	border: 5px solid;
+	border-style: hidden;
+	float: left;
+	margin-left: 7%;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-left: 20px;}
+
+.div3 {background-color:#F5F5DC;
+	min-height: 1000px;
+	width:600px;
+	border: 5px solid;
+	border-style: hidden;
+	float: left;
+	margin-left: 7%;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-left: 20px;}
+
+
+
+.div6 {background-color: transparent;
+	min-height: 800px;
+	width:600px;
+	border: 5px solid;
+	border-style: hidden;
+	float: left;
+	margin-left: 7%;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-left: 20px;}
+   
+.sidebar {background-color:none; 
+          float: right;
+          width: 24%;
+          padding: 0.6%;}
+		  
+
+/*FOOTER SECTION*/
+
+.footer-main {background-color: steelblue; 
+	clear:both;
+	padding:10px;}
+
+html {background: url(image/background.jpg) no-repeat center center fixed; 
+	background-size: cover;}
